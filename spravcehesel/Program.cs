@@ -5,11 +5,11 @@
     {
         public static void Main(String[] args){
 
-          Console.WriteLine(Heslo.maxDelkaHesla);;
+          Console.WriteLine(Heslo.maxDelkaHesla);
 
-          Heslo mojeHeslo = new Heslo Heslo();
+          Heslo mojeHeslo = new Heslo();
 
-          Console.WriteLine()
+          Console.WriteLine(mojeHeslo.MaxDelkaHesla());
 
 
         }

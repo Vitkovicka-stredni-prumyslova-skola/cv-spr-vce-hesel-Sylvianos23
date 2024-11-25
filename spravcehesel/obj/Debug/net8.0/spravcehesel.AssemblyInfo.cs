@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spravcehesel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+546216eb52a78511f876f7f77d8391a8bee1dec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498823c313a9b8556fd47508d7b6c8606e62583f")]
 [assembly: System.Reflection.AssemblyProductAttribute("spravcehesel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spravcehesel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

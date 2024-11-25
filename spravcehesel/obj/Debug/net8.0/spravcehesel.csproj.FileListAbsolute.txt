@@ -1,0 +1,15 @@
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\bin\Debug\net8.0\spravcehesel.exe
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\bin\Debug\net8.0\spravcehesel.deps.json
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\bin\Debug\net8.0\spravcehesel.runtimeconfig.json
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\bin\Debug\net8.0\spravcehesel.dll
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\bin\Debug\net8.0\spravcehesel.pdb
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.AssemblyInfoInputs.cache
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.AssemblyInfo.cs
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.csproj.CoreCompileInputs.cache
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.sourcelink.json
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.dll
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\refint\spravcehesel.dll
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.pdb
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\spravcehesel.genruntimeconfig.cache
+C:\Users\SylvieGerátová\Desktop\tvar\cv-spr-vce-hesel-Sylvianos23\spravcehesel\obj\Debug\net8.0\ref\spravcehesel.dll
